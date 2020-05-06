@@ -22,6 +22,7 @@ npm run dev
 npm run watch
 ```
 
+
 ## Compile translations
 ```bash
 cd flaskr
